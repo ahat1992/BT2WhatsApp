@@ -1,4 +1,4 @@
-dd{"version_code":451207,"content":"
+{"version_code":451207,"content":"
 
 <p>تحديث 1.20</p>
 
@@ -70,5 +70,5 @@ dd{"version_code":451207,"content":"
 
 <li> Many Other Fixes</li>
 
-","url":"https://btwahtsapp.blogspot.com/p/2-btwahtsapp2.html"
+","url":"https://btwahtsapp.blogspot.com/p/blog-page_42.html"
 }
