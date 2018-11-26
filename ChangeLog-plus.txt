@@ -35,5 +35,5 @@
 <li> Fixed Search in Themes</li>
 <li> Many Other Fixes</li>
 
-","url":"https://btwahtsapp.blogspot.com/p/blog-page_42.html"
+","url":"https://btwahtsapp.blogspot.com/p/2-btwahtsapp2.html"
 }
